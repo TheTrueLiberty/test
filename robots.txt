@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /install/
+Allow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://opusgu.ru/sitemap.php
